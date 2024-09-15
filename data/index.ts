@@ -88,36 +88,36 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
+export const blogs = [
   {
     quote:
-      "Collaborating with Manish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manish's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manish is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "JavaScript, a versatile and powerful programming language, has become the backbone of web development. With its ability to handle both frontend and backend tasks, JavaScript enables developers to create dynamic, interactive websites and applications. The rise of modern frameworks like React, Angular, and Vue has further strengthened its dominance in the web ecosystem.",
+    name: "JavaScript in Web Development",
+    title: "The Backbone of Modern Web Apps",
   },
   {
     quote:
-      "Collaborating with Manish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manish's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manish is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Asynchronous JavaScript allows developers to handle tasks like API requests and data fetching without blocking the main thread. With the introduction of Promises and async/await, managing asynchronous code has become more intuitive, making it easier to write cleaner, more readable code.",
+    name: "Asynchronous JavaScript",
+    title: "A Modern Approach to Non-blocking Code",
   },
   {
     quote:
-      "Collaborating with Manish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manish's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manish is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Node.js, built on the V8 JavaScript engine, has revolutionized server-side development. It allows developers to use JavaScript for backend services, fostering seamless communication between frontend and backend. Its event-driven, non-blocking architecture makes it ideal for building scalable, real-time applications.",
+    name: "Node.js",
+    title: "JavaScript on the Server Side",
   },
   {
     quote:
-      "Collaborating with Manish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manish's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manish is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "ES6 introduced several game-changing features to JavaScript, such as arrow functions, template literals, destructuring, and modules. These new features have improved code readability and maintainability, empowering developers to write more efficient and concise code.",
+    name: "ES6 Features",
+    title: "The Evolution of JavaScript",
   },
   {
     quote:
-      "Collaborating with Manish was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Manish's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Manish is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "JavaScript frameworks like React and Vue have transformed how we build user interfaces. React’s component-based architecture encourages reusability, while Vue's simplicity offers a gentle learning curve. Both frameworks empower developers to create responsive, interactive user experiences with minimal effort.",
+    name: "JavaScript Frameworks",
+    title: "Building Interactive UIs",
   },
 ];
 
