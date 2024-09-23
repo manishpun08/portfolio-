@@ -86,6 +86,22 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://ehomemanish.netlify.app/",
   },
+  {
+    id: 3,
+    title: "DoctorHub demo",
+    des: "DoctorHub is a web platform for easy doctor search, booking, telemedicine, and health management. It features patient and doctor dashboards, appointment management, and secure video consultations..",
+    img: "/p3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://tranquil-figolla-eedfc3.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Erp",
+    des: "ERP (Enterprise Resource Planning) is a comprehensive system that integrates various business processes, including finance, HR, inventory, and sales, streamlining operations and enhancing decision-making efficiency.",
+    img: "/p4.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://erpmanish.netlify.app/",
+  },
 ];
 
 export const blogs = [
