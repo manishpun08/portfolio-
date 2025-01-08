@@ -110,6 +110,22 @@ export const projects = [
     iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/fm.svg'],
     link: 'https://zentry-rho.vercel.app/',
   },
+  {
+    id: 6,
+    title: 'Jewellery',
+    des: 'Explore our handcrafted jewelry collection, blending timeless classics and modern designs. Crafted with precision and the finest materials, our pieces celebrate elegance and individuality for every occasion.',
+    img: '/p6.png',
+    iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/fm.svg'],
+    link: 'https://jewellery-manish.netlify.app/',
+  },
+  {
+    id: 7,
+    title: 'College',
+    des: 'A hub of academic excellence and innovation, offering diverse programs, world-class faculty, and vibrant campus life. Explore admissions, resources, and opportunities to shape your future with us.',
+    img: '/p7.png',
+    iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/fm.svg'],
+    link: 'https://college-webmanish.netlify.app/',
+  },
 ];
 
 export const blogs = [
